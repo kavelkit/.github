@@ -6,6 +6,8 @@
 
 **The full-stack Cloudflare starter kit you actually own.**
 
+[![npm](https://img.shields.io/npm/v/create-kavel)](https://www.npmjs.com/package/create-kavel)
+
 </div>
 
 One command scaffolds a typed monorepo. Pick the modules you need (auth,
